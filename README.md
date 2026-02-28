@@ -2,7 +2,7 @@
 [UNO](https://en.wikipedia.org/wiki/Uno_(card_game)) is a Software Engineering II ([UCM](https://informatica.ucm.es/)) group project based in the famous namesake multiplayer card game.
 
 ## Usage
-The folder ![v1.0](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-who/tree/main/v1.0) includes an executable version. The "Images" folder is neccesary. 
+The folder v1.0 includes an executable version. The "Images" folder is neccesary. 
 
 ## Requirements 
 The first step would be to import the game as a java proyect in Eclipse, once it is downloaded, the project would open and we should procede with the settings of the json.jar.  
